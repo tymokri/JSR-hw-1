@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  min-width: 400px;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #e0df86;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px black;
+}
+
+.card-title {
+  font-size: 25px;
+}
